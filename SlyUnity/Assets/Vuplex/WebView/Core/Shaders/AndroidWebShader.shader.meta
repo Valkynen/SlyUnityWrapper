@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e30a287c37c64ea8a78626f476223bb
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 154144
+  packageName: 3D WebView for Windows and macOS (Web Browser)
+  packageVersion: 4.15.1
+  assetPath: Assets/Vuplex/WebView/Core/Shaders/AndroidWebShader.shader
+  uploadId: 866442

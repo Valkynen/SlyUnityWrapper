@@ -34,3 +34,10 @@
 
 # Unity export packages
 *.unitypackage filter=lfs diff=lfs merge=lfs -text
+
+# Vuplex native binaries
+SlyUnity/Assets/Vuplex/**/*.dll filter=lfs diff=lfs merge=lfs -text
+SlyUnity/Assets/Vuplex/**/*.bundle filter=lfs diff=lfs merge=lfs -text
+SlyUnity/Assets/Vuplex/**/*.pak filter=lfs diff=lfs merge=lfs -text
+SlyUnity/Assets/Vuplex/**/*.dat filter=lfs diff=lfs merge=lfs -text
+SlyUnity/Assets/Vuplex/**/*.bin filter=lfs diff=lfs merge=lfs -text
